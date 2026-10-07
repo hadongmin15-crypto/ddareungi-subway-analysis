@@ -1,0 +1,5 @@
+﻿year,side,stations,found_26,found_21_only,not_found,not_found_station_pct,trips,not_found_trips,not_found_trip_pct
+2019,rent,1543,1381,130,32,2.07,3703740,58206,1.57
+2019,return,1542,1381,130,31,2.01,3683669,57712,1.57
+2026,rent,2784,2771,9,4,0.14,7967094,1588,0.02
+2026,return,2793,2774,9,10,0.36,7923606,1776,0.02

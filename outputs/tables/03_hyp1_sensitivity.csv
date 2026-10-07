@@ -1,0 +1,4 @@
+﻿pair_km,n_stations,excluded_low_2019,excluded_zero_2026,spearman_rho,spearman_sig,spearman_dir,w,w_sig,median_subway_growth_high_pct,median_subway_growth_low_pct
+1.5,259,36,0,0.20763674232750848,True,양,10558,True,0.2,-5.06
+2.5,282,12,1,0.2359427126796717,True,양,12835,True,0.22,-5.06
+3.0,283,11,1,0.2446310824877087,True,양,13087,True,0.52,-5.18

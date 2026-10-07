@@ -1,0 +1,24 @@
+# 원본·중간 데이터 (용량이 커서 제외 — README의 "데이터 받는 법" 참고)
+data/
+data/cache/
+*.parquet
+
+# 발표 파일 (팀 내부용)
+report/draft.pptx
+report/reference_team.pptx
+~$*
+
+# 작업 안내 파일
+CLAUDE.md
+
+# 파이썬·노트북 임시 파일
+__pycache__/
+.ipynb_checkpoints/
+
+# 원본 대여이력 표본 행(이동 1건 = 1행)이 찍힌 0단계 점검 로그
+outputs/tables/00_check_log.txt
+outputs/tables/00b_check_june_log.txt
+
+# 설명서 (저장소에는 노트북·README로 대신)
+report/explainer.html
+report/따릉이_지하철_분석_설명서.pdf
