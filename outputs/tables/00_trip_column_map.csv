@@ -1,0 +1,16 @@
+﻿std_name,col_2019,col_2026,use
+rent_time,대여일시,대여일시,사용
+rent_station_no,대여 대여소번호,대여 대여소번호,사용 (매칭 키)
+rent_station_name,대여 대여소명,대여 대여소명,확인용
+rent_station_id,대여대여소ID,대여대여소ID,확인용
+return_time,반납일시,반납일시,사용
+return_station_no,반납대여소번호,반납대여소번호,사용 (매칭 키)
+return_station_name,반납대여소명,반납대여소명,확인용
+return_station_id,반납대여소ID,반납대여소ID,확인용
+duration_min,이용시간(분),이용시간(분),사용
+distance_m,이용거리(M),이용거리(M),참고
+-,자전거번호,자전거번호,미사용
+-,대여거치대,대여거치대,미사용
+-,반납거치대,반납거치대,미사용
+-,생년 / 성별 / 이용자종류,생년 / 성별 / 이용자종류,읽지 않음 (개인정보)
+-,자전거구분,(없음),미사용
